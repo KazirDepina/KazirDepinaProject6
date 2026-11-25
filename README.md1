@@ -1,0 +1,23 @@
+# COMP 151 - Project 6
+## A Quick Second List and Dictionaries Analysis
+
+**Name:** Kazir Depina
+
+### Color Combinations
+
+- Option 1: Black text on cyan background.
+- Option 2: Black text on green background.
+- Option 3: Yellow text.
+- Option 4: Magenta text.
+- Option 5: White text on blue background.
+- Invalid choices: Red text.
+
+### What I Learned
+
+This project helped me practice using lists and dictionaries in Python. I learned how to go through a list of dictionaries and compare different values using dictionary keys.
+
+I also learned how starting salaries compare to salaries after two years in the Bureau of Labor Statistics data. The program allows me to look at different occupations and states to see which jobs have the highest salaries.
+
+### Incomplete Work
+
+Option 5 has not been implemented, as allowed by the project instructions.
